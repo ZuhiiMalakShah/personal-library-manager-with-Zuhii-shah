@@ -1,0 +1,83 @@
+[
+    {
+        "id": "34093",
+        "title": "Deep Learning with Python",
+        "author": " François Chollet",
+        "year": 2017,
+        "genre": "Coding",
+        "read": true,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "29045",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "year": 1997,
+        "genre": "Other",
+        "read": false,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "71181",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "genre": "Philosophy",
+        "read": false,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "76664",
+        "title": "From Nothing to Everything",
+        "author": "Saleem Ghauri",
+        "year": 2020,
+        "genre": "Philosophy",
+        "read": true,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "10311",
+        "title": "Python Programming",
+        "author": "John M Zelle",
+        "year": 2016,
+        "genre": "Technology",
+        "read": true,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "72480",
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "year": 1937,
+        "genre": "Philosophy",
+        "read": true,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "34556",
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "year": 1937,
+        "genre": "Philosophy",
+        "read": false,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "43707",
+        "title": "AI Superpowers",
+        "author": "Kai-Fu Lee",
+        "year": 2018,
+        "genre": "Technology",
+        "read": false,
+        "date_added": "2025-03-13"
+    },
+    {
+        "id": "78925",
+        "title": "Artificial Intelligence with Python",
+        "author": "Prateek Joshi",
+        "year": 2017,
+        "genre": "Technology",
+        "read": true,
+        "date_added": "2025-03-13"
+    }
+]
